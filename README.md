@@ -10,6 +10,7 @@ A modern Single Page Application (SPA) built with Next.js that allows users to e
 - 📱 Responsive design
 - ⚡ Fast and efficient data fetching
 - 🎨 Beautiful UI with smooth animations
+- New Commit
 
 ## Tech Stack
 
